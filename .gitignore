@@ -3,6 +3,7 @@ checkpoints
 .ipynb_checkpoints
 *.csv
 *.pkl
+*.pdf
 *.parquet
 *.gzip
 *.pth
